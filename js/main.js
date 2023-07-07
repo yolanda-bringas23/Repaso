@@ -15,7 +15,7 @@ document.body.appendChild (insert);
 };*/
 
 const insert1 = document.createElement("h3");
-insert1.textContent = "Conocimientos: Programador Junior";
+insert1.textContent = "Conocimientos: Programador Junior "
 document.body.appendChild(insert1);
 
 const insert2 = document.createElement("h3");
